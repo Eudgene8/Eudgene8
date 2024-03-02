@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eudgene8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eudgene8&theme=solarized_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eudgene8&layout=compact)
 
