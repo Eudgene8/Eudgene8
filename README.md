@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eudgene8&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eudgene8)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eudgene&theme=solarized_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eudgene8&layout=compact)
+
 <!--
 **Eudgene8/Eudgene8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
