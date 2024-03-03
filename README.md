@@ -4,6 +4,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eudgene8&layout=compact)
 
+#Portfolio
+Тут собраны реализованные проекты
+|№|Название проекта|Описание проекта|Стек технологий|
+|-|----------------|----------------|---------------|
+|1|Банки. Анализ оттока клиентов.|Анализ клиентов банка и поиск сегментов склонных к уходу|pandas, phik, numpy, seaborn, matplotlib, scipy, sklearn |
+
+
 <!--
 **Eudgene8/Eudgene8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
