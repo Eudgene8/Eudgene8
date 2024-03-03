@@ -10,6 +10,8 @@
 |№|Название проекта|Описание проекта|Стек технологий|
 |-|----------------|----------------|---------------|
 |1|[Банки. Анализ оттока клиентов.](https://github.com/Eudgene8/banks_outflow_analysis)|Анализ клиентов банка и поиск сегментов склонных к уходу|pandas, phik, os, numpy, seaborn, matplotlib, scipy, sklearn |
+|2|[Сервис для чтения книг.](https://github.com/Eudgene8/book_reading_service)|Решение задач с помощью SQL-запросов.|pandas, sqlalchemy |
+
 
 
 <!--
