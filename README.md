@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eudgene8&layout=compact)
 
 #Portfolio
-**
+
 Тут собраны реализованные проекты
 |№|Название проекта|Описание проекта|Стек технологий|
 |-|----------------|----------------|---------------|
