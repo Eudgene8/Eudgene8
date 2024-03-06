@@ -13,8 +13,7 @@
 |2|[Сервис для чтения книг](https://github.com/Eudgene8/book_reading_service)|Решение задач с помощью SQL-запросов|pandas, sqlalchemy |
 |3|[Анализ продаж игр](https://github.com/Eudgene8/game_sales_analysis)|Выявление закономерностей определющих успешность иргы|pandas, os, numpy, seaborn, matplotlib, scipy, проверка статистических гипотез |
 |4|[Сеть фитнес-центров «Культурист-датасаентист»](https://github.com/Eudgene8/outflow_research)|Прогнозирование вероятности оттока пользователей для фитнес-центров|pandas, os, matplotlib.pyplot, seaborn, sklearn.model_selection, sklearn.linear_model, sklearn.ensemble, sklearn.metrics, scipy.cluster.hierarchy, sklearn.preprocessing, sklearn.cluster, joypy, машинное обучение, классификация, кластеризация |
-|5|[Аналитика интернет магазина](https://github.com/Eudgene8/online_store_analytics)|Проверка гипотез по увеличению выручки в интернет-магазине —
-оценка результатов A/B теста|pandas, datetime, numpy, matplotlib.pyplot, scipy.stats, A/B-тестирование, проверка статистических гипотез|
+|5|[Аналитика интернет магазина](https://github.com/Eudgene8/online_store_analytics)|Проверка гипотез по увеличению выручки в интернет-магазине. Оценка результатов A/B теста|pandas, datetime, numpy, matplotlib.pyplot, scipy.stats, A/B-тестирование, проверка статистических гипотез|
 
 
 
