@@ -18,6 +18,8 @@
 |7|[Голосования на Википедии](https://github.com/Eudgene8/voting_on_wikipedia)|Сегментация пользователей, анализ их активности|pandas, seaborn, numpy, matplotlib.pyplot, datetime, rfm-анализ, сегментация пользователей|
 |8|[Анализ убыточности приложения Procrastinate Pro+](https://github.com/Eudgene8/analysis_of_the_unprofitability_of_the_application)|Проведен анализ данных. Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д.|pandas, numpy, matplotlib.pyplot, datetime, когортный анализ, юнит-экономика, продуктовые метрики|
 |9|[Уровень лояльности телекоммуникационной компании](https://github.com/Eudgene8/the_level_of_loyalty_of_a_telecommunications_company)|Определение текущего уровня потребительской лояльности. Подготовка дашборда с итогами.|pandas, numpy, os, sqlalchemy, tableau, построение дашбордов|
+|10|[Исследование истории TED-конференций с помощью Tableau](https://github.com/Eudgene8/researching_the_history_of_TED_conferences)|Подготовлен интерактивный дашборд на основе данных о конференциях. Для создания дашбордов использован BI-инструмент Tableau.|tableau, построение дашбордов, продуктовые метрики|
+
 
 <!--
 **Eudgene8/Eudgene8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
