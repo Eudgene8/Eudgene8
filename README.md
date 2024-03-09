@@ -16,7 +16,7 @@
 |5|[Аналитика интернет магазина](https://github.com/Eudgene8/online_store_analytics)|Проверка гипотез по увеличению выручки в интернет-магазине. Оценка результатов A/B теста|pandas, datetime, numpy, matplotlib.pyplot, scipy.stats, A/B-тестирование, проверка статистических гипотез|
 |6|[Анализ поведения пользователей сервиса аренды самокатов ](https://github.com/Eudgene8/analysis_of_user_behavior)|Определение выгодного тарифа для компании|pandas, seaborn, numpy, matplotlib.pyplot, scipy.stats, math, проверка статистических гипотез, описательная статистика|
 |7|[Голосования на Википедии](https://github.com/Eudgene8/voting_on_wikipedia)|Сегментация пользователей, анализ их активности|pandas, seaborn, numpy, matplotlib.pyplot, datetime, rfm-анализ, сегментация пользователей|
-
+|8|[Анализ убыточности приложения Procrastinate Pro+](https://github.com/Eudgene8/analysis_of_the_unprofitability_of_the_application)|Проведен анализ данных. Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д.|pandas, numpy, matplotlib.pyplot, datetime, когортный анализ, юнит-экономика, продуктовые метрики|
 
 <!--
 **Eudgene8/Eudgene8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
