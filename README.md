@@ -19,6 +19,7 @@
 |8|[Анализ убыточности приложения Procrastinate Pro+](https://github.com/Eudgene8/analysis_of_the_unprofitability_of_the_application)|Проведен анализ данных. Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д.|pandas, numpy, matplotlib.pyplot, datetime, когортный анализ, юнит-экономика, продуктовые метрики|
 |9|[Уровень лояльности телекоммуникационной компании](https://github.com/Eudgene8/the_level_of_loyalty_of_a_telecommunications_company)|Определение текущего уровня потребительской лояльности. Подготовка дашборда с итогами.|pandas, numpy, os, sqlalchemy, tableau, построение дашбордов|
 |10|[Исследование истории TED-конференций с помощью Tableau](https://github.com/Eudgene8/researching_the_history_of_TED_conferences)|Подготовлен интерактивный дашборд на основе данных о конференциях. Для создания дашбордов использован BI-инструмент Tableau.|tableau, построение дашбордов, продуктовые метрики|
+|11|[Рынок заведений общественного питания Москвы](https://github.com/Eudgene8/moscow_public_catering_market)|Подготовлено исследование рынка, визуализированы полученные данные. На основе данных выбрано место для открытия новой кофейни.|pandas, os, matplotlib.pyplot, seaborn, folium|
 
 
 <!--
