@@ -1,4 +1,3 @@
-### Hi there 👋
 Привет! 
 Меня зовут Женя и я работаю аналитиком в Яндексе.
 
@@ -11,6 +10,12 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eudgene8&theme=solarized_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eudgene8&layout=compact)
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eudgene8&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eudgene8&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eudgene8&theme=github_dark" alt=""/>
+</div>
 *****
 #Portfolio
 
