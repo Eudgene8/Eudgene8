@@ -7,15 +7,20 @@
 |Прогноз входящей нагрузки и расчет потребности в персонале (Excel)|Сформировал и поддерживал прогноз на целевом уровне точности в течении 6 месяцев|
 |Анализ основных тематик обращений пользователей (Excel)|Разработал структуру чат-бота, опираясь на анализ часто встречающихся вопросов пользователей. Запуск чат бота помог снизить нагрузку на 10%|
 *****
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eudgene8&theme=solarized_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eudgene8&layout=compact)
-
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eudgene8&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eudgene8&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eudgene8&theme=github_dark" alt=""/>
 </div>
+*****
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="sql" width="40" height="40"/>&nbsp; 
+          
 *****
 #Portfolio
 
