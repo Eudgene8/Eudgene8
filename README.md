@@ -28,6 +28,14 @@
           
 *****
 
+### Pet-проекты
+
+|№|Название проекта|Описание проекта|Навыки и инструменты|
+|-|----------------|----------------|---------------|
+|1|[Голосования на Википедии](https://github.com/Eudgene8/voting_on_wikipedia)|Сегментация пользователей, анализ их активности|pandas, seaborn, numpy, matplotlib.pyplot, datetime, rfm-анализ, сегментация пользователей|
+
+*****
+
 ### Portfolio
 
 Тут собраны реализованные проекты
@@ -39,15 +47,14 @@
 |4|[Сеть фитнес-центров «Культурист-датасаентист»](https://github.com/Eudgene8/outflow_research)|Прогнозирование вероятности оттока пользователей для фитнес-центров|pandas, os, matplotlib.pyplot, seaborn, sklearn.model_selection, sklearn.linear_model, sklearn.ensemble, sklearn.metrics, scipy.cluster.hierarchy, sklearn.preprocessing, sklearn.cluster, joypy, машинное обучение, классификация, кластеризация |
 |5|[Аналитика интернет магазина](https://github.com/Eudgene8/online_store_analytics)|Проверка гипотез по увеличению выручки в интернет-магазине. Оценка результатов A/B теста|pandas, datetime, numpy, matplotlib.pyplot, scipy.stats, A/B-тестирование, проверка статистических гипотез|
 |6|[Анализ поведения пользователей сервиса аренды самокатов ](https://github.com/Eudgene8/analysis_of_user_behavior)|Определение выгодного тарифа для компании|pandas, seaborn, numpy, matplotlib.pyplot, scipy.stats, math, проверка статистических гипотез, описательная статистика|
-|7|[Голосования на Википедии](https://github.com/Eudgene8/voting_on_wikipedia)|Сегментация пользователей, анализ их активности|pandas, seaborn, numpy, matplotlib.pyplot, datetime, rfm-анализ, сегментация пользователей|
-|8|[Анализ убыточности приложения Procrastinate Pro+](https://github.com/Eudgene8/analysis_of_the_unprofitability_of_the_application)|Проведен анализ данных. Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д.|pandas, numpy, matplotlib.pyplot, datetime, когортный анализ, юнит-экономика, продуктовые метрики|
-|9|[Уровень лояльности телекоммуникационной компании](https://github.com/Eudgene8/the_level_of_loyalty_of_a_telecommunications_company)|Определение текущего уровня потребительской лояльности. Подготовка дашборда с итогами.|pandas, numpy, os, sqlalchemy, tableau, построение дашбордов|
-|10|[Исследование истории TED-конференций с помощью Tableau](https://github.com/Eudgene8/researching_the_history_of_TED_conferences)|Подготовлен интерактивный дашборд на основе данных о конференциях. Для создания дашбордов использован BI-инструмент Tableau.|tableau, построение дашбордов, продуктовые метрики|
-|11|[Рынок заведений общественного питания Москвы](https://github.com/Eudgene8/moscow_public_catering_market)|Подготовлено исследование рынка, визуализированы полученные данные. На основе данных выбрано место для открытия новой кофейни.|pandas, os, matplotlib.pyplot, seaborn, folium|
-|12|[Исследование данных о российском кинопрокате](https://github.com/Eudgene8/research_of_the_russian_film_distribution_market)|Проведено исследование, изучены текущие тренды и визуализированы полученные результаты.|pandas, matplotlib.pyplot, pylab, предобработка данных, исследовательский анализ данных, визуализация данных|
-|13|[Исследование объявлений о продаже квартир](https://github.com/Eudgene8/the_real_estate_market_in_st_petersburg)|Определена рыночная стоимость объектов недвижимости разного типа, типичные параметры квартир, в зависимости от удаленности от центра. Проведена предобработка данных. Построены гистограммы, боксплоты, диаграммы рассеивания.|pandas, matplotlib.pyplot, pylab, предобработка данных, исследовательский анализ данных, визуализация данных|
-|14|[Исследование надежности заемщиков](https://github.com/Eudgene8/investigation_of_the_reliability_of_borrowers)|Проведено исследование влияния семейного положения и количества детей на факт погашения кредита в срок.|pandas, matplotlib.pyplot, seaborn, предобработка данных|
-|15|[Исследование данных сервиса "Яндекс.Музыка"](https://github.com/Eudgene8/research_on_the_yandex.music_service)|На реальных данных Яндекс.Музыки проверили и сравнили поведение пользователей двух столиц.|pandas|
+|7|[Анализ убыточности приложения Procrastinate Pro+](https://github.com/Eudgene8/analysis_of_the_unprofitability_of_the_application)|Проведен анализ данных. Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д.|pandas, numpy, matplotlib.pyplot, datetime, когортный анализ, юнит-экономика, продуктовые метрики|
+|8|[Уровень лояльности телекоммуникационной компании](https://github.com/Eudgene8/the_level_of_loyalty_of_a_telecommunications_company)|Определение текущего уровня потребительской лояльности. Подготовка дашборда с итогами.|pandas, numpy, os, sqlalchemy, tableau, построение дашбордов|
+|9|[Исследование истории TED-конференций с помощью Tableau](https://github.com/Eudgene8/researching_the_history_of_TED_conferences)|Подготовлен интерактивный дашборд на основе данных о конференциях. Для создания дашбордов использован BI-инструмент Tableau.|tableau, построение дашбордов, продуктовые метрики|
+|10|[Рынок заведений общественного питания Москвы](https://github.com/Eudgene8/moscow_public_catering_market)|Подготовлено исследование рынка, визуализированы полученные данные. На основе данных выбрано место для открытия новой кофейни.|pandas, os, matplotlib.pyplot, seaborn, folium|
+|11|[Исследование данных о российском кинопрокате](https://github.com/Eudgene8/research_of_the_russian_film_distribution_market)|Проведено исследование, изучены текущие тренды и визуализированы полученные результаты.|pandas, matplotlib.pyplot, pylab, предобработка данных, исследовательский анализ данных, визуализация данных|
+|12|[Исследование объявлений о продаже квартир](https://github.com/Eudgene8/the_real_estate_market_in_st_petersburg)|Определена рыночная стоимость объектов недвижимости разного типа, типичные параметры квартир, в зависимости от удаленности от центра. Проведена предобработка данных. Построены гистограммы, боксплоты, диаграммы рассеивания.|pandas, matplotlib.pyplot, pylab, предобработка данных, исследовательский анализ данных, визуализация данных|
+|13|[Исследование надежности заемщиков](https://github.com/Eudgene8/investigation_of_the_reliability_of_borrowers)|Проведено исследование влияния семейного положения и количества детей на факт погашения кредита в срок.|pandas, matplotlib.pyplot, seaborn, предобработка данных|
+|14|[Исследование данных сервиса "Яндекс.Музыка"](https://github.com/Eudgene8/research_on_the_yandex.music_service)|На реальных данных Яндекс.Музыки проверили и сравнили поведение пользователей двух столиц.|pandas|
 
 
 <!--
