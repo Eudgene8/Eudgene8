@@ -32,7 +32,8 @@
 
 |№|Название проекта|Описание проекта|Навыки и инструменты|
 |-|----------------|----------------|---------------|
-|1|[Голосования на Википедии](https://github.com/Eudgene8/voting_on_wikipedia)|Сегментация пользователей, анализ их активности|pandas, seaborn, numpy, matplotlib.pyplot, datetime, rfm-анализ, сегментация пользователей|
+|1|[Мониторинг земельных участков на территории Москвы]((https://github.com/Eudgene8/monitoring_of_moscow_land_plots))|Аналитическое исследование и визуализация данных по мониторингу земельных участков на территории Москвы|pandas, seaborn, numpy, matplotlib.pyplot, os, olium, json, tableau|
+|2|[Голосования на Википедии](https://github.com/Eudgene8/voting_on_wikipedia)|Сегментация пользователей, анализ их активности|pandas, seaborn, numpy, matplotlib.pyplot, datetime, rfm-анализ, сегментация пользователей|
 
 *****
 
