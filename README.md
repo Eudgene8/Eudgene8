@@ -3,6 +3,8 @@
 
 ### Контакты:
 [www.linkedin.com/in/eudgenekorablev](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)
+
+
 www.linkedin.com/in/eudgenekorablev
 https://t.me/EKoev
 
