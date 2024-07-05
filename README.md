@@ -1,5 +1,6 @@
 ### Привет! 
 ### Живу в Санкт-Петербурге и работаю аналитиком в Яндексе.
+*****
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/eudgenekorablev">
@@ -9,11 +10,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
-
-www.linkedin.com/in/eudgenekorablev
-https://t.me/EKoev
-
+*****
 
 На основе моего стека технологий, я могу реализовать следующие ключевые задачи:
 
