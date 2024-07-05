@@ -11,6 +11,7 @@
 </div>
 
 
+
 На основе моего стека технологий, я могу реализовать следующие ключевые задачи:
 
 1. Анализ и обработка данных:
@@ -29,8 +30,8 @@
 *****
 
 ### Languages and tools
-
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="html"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="sql" width="40" height="40"/>&nbsp;
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
