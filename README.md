@@ -1,8 +1,10 @@
 ### Привет! 
 ### Живу в Санкт-Петербурге и работаю аналитиком в Яндексе.
 
-### Контакты:
-(https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+</div>
 
 
 www.linkedin.com/in/eudgenekorablev
