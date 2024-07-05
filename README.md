@@ -2,7 +2,7 @@
 ### Живу в Санкт-Петербурге и работаю аналитиком в Яндексе.
 
 ### Контакты:
-[www.linkedin.com/in/eudgenekorablev](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)
+(https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)
 
 
 www.linkedin.com/in/eudgenekorablev
