@@ -1,8 +1,6 @@
 ### Привет! 
 ### Живу в Санкт-Петербурге и работаю аналитиком в Яндексе.
 
-*****
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/eudgenekorablev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,30 +9,29 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-*****
+
 
 На основе моего стека технологий, я могу реализовать следующие ключевые задачи:
 
-1) Анализ и обработка данных:
-    - Использование Python и его библиотек (pandas, numpy) для очистки, трансформации и агрегации данных.
-    - Применение SQL для написания сложных запросов, включая использование оконных функций, CTE и подзапросов, для извлечения и анализа данных из реляционных баз данных.
-2) Визуализация данных:
-    - Создание наглядных графиков и диаграмм с помощью seaborn и matplotlib для лучшего понимания данных.
-    - Разработка интерактивных дашбордов и отчетов с использованием DataLens и Tableau для представления результатов анализа в удобном и понятном виде.
-3) Прогнозирование и анализ временных рядов:
-    - Применение скриптов на Python и библиотеки sklearn для построения и тестирования моделей машинного обучения, включая регрессии, классификацию и кластеризацию.
-    - Анализ временных рядов для выявления трендов, сезонности и других паттернов.
-4) Автоматизация процессов обработки данных:
-    - Разработка макросов VBA в Excel для автоматизации рутинных задач обработки данных, таких как очистка данных, формирование сводных таблиц и генерация отчетов.
-    - Использование ВПР для интеграции Python кода непосредственно в Excel, что позволяет быстро протестировать и внедрить новые алгоритмы анализа данных.
+1. Анализ и обработка данных:
+   - Применение Python (с библиотеками pandas, numpy) и SQL для очистки, трансформации и агрегации данных.
+   
+2. Визуализация данных:
+   - Создание графиков с использованием seaborn и matplotlib, разработка интерактивных дашбордов в DataLens и Tableau.
+   
+3. Прогнозирование и машинное обучение:
+   - Построение и тестирование моделей на Python (sklearn), анализ временных рядов для выявления трендов.
 
-
-*****
+4. Автоматизация процессов обработки данных:
+   - Разработка макросов VBA и интеграция Python кода в Excel для автоматизации обработки данных и создания сводных отчетов.
 
 
 *****
 
 ### Languages and tools
+
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="sql" width="40" height="40"/>&nbsp;
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="sql" width="40" height="40"/>&nbsp;
